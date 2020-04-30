@@ -1,0 +1,19 @@
+{
+    "name": "theme-jiaxueg",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "version": "1.0.0",
+    "publisher": "JiaxueG",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "JiaxueG-Modified-Synthwave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jiaxueg-synthwave.json"
+            }
+        ]
+    }
+}
